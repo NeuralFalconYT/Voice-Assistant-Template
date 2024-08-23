@@ -1,25 +1,24 @@
-# Phi-3.5-mini-instruct Virtual Assistant 
+# Use Any LLM as Voice Assistant 
 
-## Step 1: Run Phi-3.5-mini-instruct on Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Phi-3.5-mini-instruct/blob/main/Phi_3_5_mini_instruct.ipynb) <br>
+## Step 1: Run any LLM on Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Assistant-Template/blob/main/Gradio_Server_Template.ipynb) <br>
 [Phi-3.5-mini-instruct Hugging Face](https://huggingface.co/microsoft/Phi-3.5-mini-instruct).
 
-### Gradio Chat Interface
-![chat](https://github.com/user-attachments/assets/88618a48-921c-4927-ac95-14dd17da20bb)
 ### Gradio API Interface
-![api](https://github.com/user-attachments/assets/40a62200-d3ac-489c-85b7-2b0bdf1d7cfe)
+
+![app](https://github.com/user-attachments/assets/0d5c8834-79c6-4da7-b553-e1c944f8e69d)
 
 ## Step 2: Clone the Repository or Download ZIP
 To clone the repository:
 ```
-git clone https://github.com/NeuralFalconYT/Phi-3.5-mini-instruct.git
+git clone https://github.com/NeuralFalconYT/Voice-Assistant-Template.git
 ```
 ```
-cd Phi-3.5-mini-instruct
+cd Voice-Assistant-Template
 ```
 Alternatively, download the ZIP file, extract the folder, and navigate to it:
 ```
-cd Phi-3.5-mini-instruct
+cd Voice-Assistant-Template
 ```
 ## Step 3: Install Required Packages
 My Python version is ```Python 3.10```<br>
@@ -82,9 +81,6 @@ Then, delete the folder.
 ![4](https://github.com/user-attachments/assets/22122dbf-0c1a-4927-a0e7-ac3bb8a603cd)
 
 ## Acknowledgments
-
-I would like to express my sincere gratitude to the following people and organizations:
-- **[hi-3.5-mini-instruct]**:[[Phi-3.5-mini-instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct)].
 - **[Anding Analytics]**: [[For Visualize Sound Code](https://youtu.be/675teI6-_-g?si=wT9mWgvrGRxasvNU)].
 
 
