@@ -2,7 +2,6 @@
 
 ## Step 1: Run any LLM on Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Assistant-Template/blob/main/Gradio_Server_Template.ipynb) <br>
-[Phi-3.5-mini-instruct Hugging Face](https://huggingface.co/microsoft/Phi-3.5-mini-instruct).
 
 ### Gradio API Interface
 
