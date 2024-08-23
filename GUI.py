@@ -346,6 +346,16 @@ class App(ctk.CTk):
                     if self.Language != "English":
                         self.update_output(f"English Text: {usr_msg}")
                         console.print(f"[bold green]English Text:[/bold green] {usr_msg}", style="yellow")
+                    #pronunciations = ["meta", "meeta", "mata"]  # Add any variations you want to consider
+
+                    # matching_variation = next((variation for variation in pronunciations if variation in text.lower()), None)
+        
+                    # if matching_variation:
+                    #     print(f"Matched variation: {matching_variation}")
+                    #     print("Triggering the API...")
+                    #     chatbot(usr_msg, self.Language)
+
+                    # if you uncomment above comment then comment below
                     chatbot(usr_msg, self.Language)
                         
             except Exception as e:
