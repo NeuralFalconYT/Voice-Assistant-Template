@@ -76,7 +76,7 @@ Then, delete the folder.
 
 ![2](https://github.com/user-attachments/assets/3952d198-e78c-4d61-8cbd-372a9c806ca0)
 
-![3](https://github.com/user-attachments/assets/f0f64aea-09b1-4b49-b856-77481e3bb112)
+![3](https://github.com/user-attachments/assets/4d355e0b-1317-45bd-81a6-8e192cd3c6c0)
 
 ![4](https://github.com/user-attachments/assets/22122dbf-0c1a-4927-a0e7-ac3bb8a603cd)
 
