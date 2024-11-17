@@ -395,7 +395,7 @@ def edge_tts_pipeline(input_text,Language,Gender,translate_text_flag=True,no_sil
   if no_silence:
     clean_path=f"{edge_folder}/audio/"+random_audio_name_generate().replace(".mp3",".wav")
     remove_silence(save_path,clean_path)
-    audio_return_path=save_path
+    audio_return_path=clean_path
     # return clean_path
   if tts_save_path=="":
     return audio_return_path
